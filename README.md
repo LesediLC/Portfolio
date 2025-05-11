@@ -1,12 +1,12 @@
-# 📊 Data Science Portfolio by Lesedi Ledwaba-Chapman
+📊 Data Science Portfolio by Lesedi Ledwaba-Chapman
 
 Welcome to my Data Science portfolio!  
-This repository showcases projects where I analyse complex datasets, apply statistical and machine learning methods, and communicating insights clearly.  
-The projects emphasise data storytelling, problem solving, and data-driven decision-making.
+This repository showcases projects where I analyse complex datasets, apply statistical and machine learning methods, and communicate insights.  
+The projects emphasise data storytelling, problem-solving, and data-driven decision-making.
 
 ---
 
-## 📚 About Me
+## About Me
 
 I am a Senior Statistician with an MSc in Medical Statistics and a strong foundation in mathematics, statistics, and programming.  
 I have experience working with diverse datasets, from early-phase clinical trials to large-scale public health data, using tools such as **Python, R, SQL, and SAS**.
