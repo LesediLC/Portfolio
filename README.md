@@ -1,4 +1,4 @@
-📊 Data Science Portfolio by Lesedi Ledwaba-Chapman
+# Lesedi Ledwaba-Chapman's Data Science Portfolio
 
 Welcome to my Data Science portfolio!  
 This repository showcases projects where I analyse complex datasets, apply statistical and machine learning methods, and communicate insights.  
